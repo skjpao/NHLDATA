@@ -1,0 +1,6 @@
+This is an app which uses a public NHL-API to fetch up-to-date information about teams, players and standings.
+For now, the app is in finnish. The first draft includes a search for team rosters, information about a single
+player and the team standings (overall, conferences and divisions).
+
+My plan is to improve it so that it will act as a primary source of NHL-info for my uses. That means I will add
+advanced stats, maybe other leagues such as AHL, junior leagues, european leagues etc.
